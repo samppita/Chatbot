@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Talk to Watson</title>
+<title>Chatbot Santa</title>
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,7 +17,7 @@
 		<div class="_demo--container">
 			<a class="wordmark" href="index.jsp">
 				<span class="wordmark--left">Talk to</span>
-				<span class="wordmark--right">Watson</span>
+				<span class="wordmark--right">Santa</span>
 			</a>
 			
 			<!--nav class="heading-nav">
